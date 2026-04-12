@@ -103,16 +103,21 @@ img{
 }
 
 .hero{
-  padding:56px 0 48px;
+  position:relative;
+  overflow:hidden;
+  padding:72px 0 64px;
   background:
     linear-gradient(
-      180deg,
-      rgba(0,0,0,.62) 0%,
-      rgba(0,0,0,.52) 40%,
-      rgba(0,0,0,.28) 100%
+      90deg,
+      rgba(0,0,0,.58) 0%,
+      rgba(0,0,0,.48) 35%,
+      rgba(0,0,0,.22) 65%,
+      rgba(0,0,0,.08) 100%
     ),
     url('images/safe-moving.jpg') center/cover no-repeat;
 }
+
+
 .hero-grid{
   display:grid;
   grid-template-columns:1.3fr .7fr;
