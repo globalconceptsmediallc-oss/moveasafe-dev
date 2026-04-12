@@ -104,7 +104,9 @@ img{
 
 .hero{
   padding:72px 0 56px;
-  background:linear-gradient(180deg, #efe7db 0%, #f6f3ee 100%);
+  background:
+    linear-gradient(rgba(246,243,238,0.92), rgba(246,243,238,0.92)),
+    url('../images/safe-moving.jpg') center/cover no-repeat;
 }
 
 .hero-grid{
