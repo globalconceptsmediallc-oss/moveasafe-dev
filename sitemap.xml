@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://globalconceptsmediallc-oss.github.io/moveasafe-dev/</loc>
+    <loc>https://www.moveasafe.com/</loc>
   </url>
+
   <url>
-    <loc>https://globalconceptsmediallc-oss.github.io/moveasafe-dev/services/safe-moving.html</loc>
+    <loc>https://www.moveasafe.com/services/safe-moving</loc>
   </url>
+
   <url>
-    <loc>https://globalconceptsmediallc-oss.github.io/moveasafe-dev/services/gun-safe-moving.html</loc>
+    <loc>https://www.moveasafe.com/services/gun-safe-moving</loc>
   </url>
+
   <url>
-    <loc>https://globalconceptsmediallc-oss.github.io/moveasafe-dev/services/commercial-safe-moving.html</loc>
+    <loc>https://www.moveasafe.com/services/commercial-safe-moving</loc>
   </url>
+
   <url>
-    <loc>https://globalconceptsmediallc-oss.github.io/moveasafe-dev/locations/miami-safe-movers.html</loc>
+    <loc>https://www.moveasafe.com/locations/miami-safe-movers</loc>
   </url>
+
   <url>
-    <loc>https://globalconceptsmediallc-oss.github.io/moveasafe-dev/locations/orlando-safe-movers.html</loc>
+    <loc>https://www.moveasafe.com/locations/orlando-safe-movers</loc>
   </url>
+
   <url>
-    <loc>https://globalconceptsmediallc-oss.github.io/moveasafe-dev/locations/tampa-safe-movers.html</loc>
+    <loc>https://www.moveasafe.com/locations/tampa-safe-movers</loc>
   </url>
+
 </urlset>
