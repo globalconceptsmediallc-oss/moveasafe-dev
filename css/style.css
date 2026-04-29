@@ -539,13 +539,15 @@ h3{
     grid-template-columns:1fr;
   }
 
-  .topbar{
-    padding:14px 0;
-  }
+.topbar{
+  padding:16px 0;
+  gap:14px;
+}
 
-  .main-nav{
-    justify-content:flex-start;
-  }
+.main-nav{
+  justify-content:flex-start;
+  gap:14px;
+}
 
   .header-phone{
     width:max-content;
@@ -632,9 +634,13 @@ h3{
     gap:14px;
   }
 
-  .logo{
-    font-size:1.35rem;
-  }
+.logo{
+  font-size:1.3rem;
+}
+
+.brand-tag{
+  font-size:.68rem;
+}
 
   .main-nav{
     gap:12px;
