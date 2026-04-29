@@ -148,7 +148,7 @@ h3{
   letter-spacing:.12em;
   font-size:.78rem;
   font-weight:800;
-  color:var(--accent-dark);
+  color:var(--accent-bright);
 }
 
 .subhead{
@@ -335,15 +335,15 @@ h3{
 }
 
 .btn-secondary{
-  background:#fff;
-  border:1px solid var(--line);
+  background:#ffffff;
+  border:1px solid rgba(255,255,255,.85);
   color:var(--navy);
-  padding:13px 20px;
-  font-size:.96rem;
+  padding:14px 22px;
+  font-weight:700;
+  transition:all .2s ease;
 }
 
 .btn-secondary:hover{
-  text-decoration:none;
   background:#f8fafc;
   transform:translateY(-1px);
 }
@@ -444,6 +444,8 @@ h3{
 .final-cta-copy .eyebrow{
   margin-bottom:10px;
   color:var(--accent-bright);
+  font-weight:800;
+  letter-spacing:.14em;
 }
 
 .final-cta-copy .subhead{
