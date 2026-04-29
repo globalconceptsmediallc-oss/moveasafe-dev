@@ -5,8 +5,11 @@
   --text:#1f2a37;
   --muted:#5b6472;
   --line:#d8dce2;
-  --accent:#b88746;
-  --accent-dark:#8a5a2f;
+
+  --accent:#c6924a;
+  --accent-dark:#a87734;
+  --accent-bright:#f2c879;
+
   --navy:#1f2a37;
   --charcoal:#111827;
   --max:1120px;
@@ -439,7 +442,7 @@ h3{
 
 .final-cta-copy .eyebrow{
   margin-bottom:10px;
-  color:#f1c27d;
+  color:var(--accent-bright);
 }
 
 .final-cta-copy .subhead{
